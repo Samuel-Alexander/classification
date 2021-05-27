@@ -1,2 +1,2 @@
 # classification
-exploring the use of and comparing various data sampling methods
+## Exploring the use of and comparing various data sampling methods including resmpling and ensemble learning.
